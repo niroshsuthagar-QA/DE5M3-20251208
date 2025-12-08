@@ -1,0 +1,7 @@
+[
+    {"sale_id":1, "product":"t-shirt", "price":12.99, "size": "M"},
+    {"sale_id":2, "product":"jeans", "price":14.99, "size": "L"},
+    {"sale_id":3, "product":"jacket", "price":19.99, "size": "L"},
+    {"sale_id":4, "product":"jeans", "price":11.99, "size": "S"},
+    {"sale_id":5, "product":"t-shirt", "price":9.99, "size": "XL"}
+]
